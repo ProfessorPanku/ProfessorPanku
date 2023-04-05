@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ProfessorPanku
+- 👋 Hi, I’m Nasib Singh  @ProfessorPanku
 - 👀 I’m interested in ...PYTHON
-- 🌱 I’m currently learning ...SUGGEST ME ANY COURSE
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently do machine learning course.
+- 💞️ I’m looking to collaborate on ... ml projects.
 - 📫 How to reach me ...via- nasibsinghkot@gmail.com
 
 <!---
